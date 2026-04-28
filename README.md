@@ -1,6 +1,29 @@
 # 📚 BookNest — Book Lending & Reading Community
 ### DBMS Project | FastAPI + PostgreSQL
 
+BookNest is a full-stack, database-driven platform that centralizes book lending and reading community management. Built with FastAPI, PostgreSQL, and SQLAlchemy, it replaces manual library record-keeping with a clean REST API and a minimal browser-based UI.
+
+---
+
+## 👥 Team
+
+| Name | Registration No. | Certificate | Course Report |
+|------|-----------------|-------------|---------------|
+| Asmit Nayan | RA2411030030065 | [📄 View](https://github.com/AsmitNayan/BookNest/blob/main/asmit_certificate.pdf) | [📄 View](https://github.com/AsmitNayan/BookNest/blob/main/asmit_course_report.pdf) |
+| Kanhaiya Kumar | RA2411030030068 | [📄 View](https://github.com/AsmitNayan/BookNest/blob/main/kan_certificate.pdf) | [📄 View](https://github.com/AsmitNayan/BookNest/blob/main/kanhaiya_course_report.pdf) |
+| Sarthak Srivastava | RA2411030030047 | [📄 View](https://github.com/AsmitNayan/BookNest/blob/main/sarthak_certificate.pdf) | [📄 View](https://github.com/AsmitNayan/BookNest/blob/main/sarthak_course_report.pdf) |
+
+---
+
+## 📄 Project Documents
+
+| Document | Link |
+|----------|------|
+| BookNest — DBMS Project Report | [📥 View](https://github.com/AsmitNayan/BookNest/blob/main/booknest_report.docx) |
+| BookNest PPT | [📥 View](https://github.com/AsmitNayan/BookNest/blob/main/BookNest%20ppt.pdf) |
+| DBMS Report File | [📥 View](https://github.com/AsmitNayan/BookNest/blob/main/dbms%20report%20file.pdf) |
+| Project PPT | [📥 View](https://github.com/AsmitNayan/BookNest/blob/main/project%20ppt.pdf) |
+
 ---
 
 ## Project Structure
